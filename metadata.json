@@ -1,0 +1,29 @@
+[
+  {
+    "service": "https://github.com/OpenClinica/study-runner",
+    "artifact_to_be_translated": "src/main/resources/org/akaza/openclinica/i18n/notes.properties",
+    "tranlation_type": "values",
+    "target_locales": [
+      "de"
+    ],
+    "target_file_name_format": "notes_${target_locale}.properties"
+  },
+  {
+    "service": "https://github.com/OpenClinica/study-runner",
+    "artifact_to_be_translated": "src/main/webapp/includes/new_cal/lang/calendar-en.js",
+    "tranlation_type": "values",
+    "target_locales": [
+      "de"
+    ],
+    "target_file_name_format": "calendar-${target_locale}.js"
+  },
+  {
+    "service": "https://github.com/OpenClinica/study-runner",
+    "artifact_to_be_translated": "src/main/resources/core/properties/template_tabular_import_mapping.properties",
+    "tranlation_type": "comments",
+    "target_locales": [
+      "de"
+    ],
+    "target_file_name_format": "template_tabular_import_mapping_${target_locale}.properties"
+  }
+]
