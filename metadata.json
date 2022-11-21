@@ -1,29 +1,134 @@
 [
   {
     "service": "https://github.com/OpenClinica/study-runner",
+    "artifact_to_be_translated": "src/main/resources/org/akaza/openclinica/i18n/admin.properties",
+    "translation_type": "values",
+    "target": [
+      {
+        "locale": "de",
+        "location": "src/main/resources/org/akaza/openclinica/i18n/",
+        "file_name": "admin_de.properties"
+      }
+    ]
+  },
+  {
+    "service": "https://github.com/OpenClinica/study-runner",
+    "artifact_to_be_translated": "src/main/resources/org/akaza/openclinica/i18n/audit_events.properties",
+    "translation_type": "values",
+    "target": [
+      {
+        "locale": "de",
+        "location": "src/main/resources/org/akaza/openclinica/i18n/",
+        "file_name": "audit_events_de.properties"
+      }
+    ]
+  },
+  {
+    "service": "https://github.com/OpenClinica/study-runner",
+    "artifact_to_be_translated": "src/main/resources/org/akaza/openclinica/i18n/exceptions.properties",
+    "translation_type": "values",
+    "target": [
+      {
+        "locale": "de",
+        "location": "src/main/resources/org/akaza/openclinica/i18n/",
+        "file_name": "exceptions_de.properties"
+      }
+    ]
+  },
+  {
+    "service": "https://github.com/OpenClinica/study-runner",
+    "artifact_to_be_translated": "src/main/resources/org/akaza/openclinica/i18n/format.properties",
+    "translation_type": "values",
+    "target": [
+      {
+        "locale": "de",
+        "location": "src/main/resources/org/akaza/openclinica/i18n/",
+        "file_name": "format_de.properties"
+      }
+    ]
+  },
+  {
+    "service": "https://github.com/OpenClinica/study-runner",
     "artifact_to_be_translated": "src/main/resources/org/akaza/openclinica/i18n/notes.properties",
-    "tranlation_type": "values",
-    "target_locales": [
-      "de"
-    ],
-    "target_file_name_format": "notes_${target_locale}.properties"
+    "translation_type": "values",
+    "target": [
+      {
+        "locale": "de",
+        "location": "src/main/resources/org/akaza/openclinica/i18n/",
+        "file_name": "notes_de.properties"
+      }
+    ]
+  },
+  {
+    "service": "https://github.com/OpenClinica/study-runner",
+    "artifact_to_be_translated": "src/main/resources/org/akaza/openclinica/i18n/page_messages.properties",
+    "translation_type": "values",
+    "target": [
+      {
+        "locale": "de",
+        "location": "src/main/resources/org/akaza/openclinica/i18n/",
+        "file_name": "page_messages_de.properties"
+      }
+    ]
+  },
+  {
+    "service": "https://github.com/OpenClinica/study-runner",
+    "artifact_to_be_translated": "src/main/resources/org/akaza/openclinica/i18n/terms.properties",
+    "translation_type": "values",
+    "target": [
+      {
+        "locale": "de",
+        "location": "src/main/resources/org/akaza/openclinica/i18n/",
+        "file_name": "terms_de.properties"
+      }
+    ]
+  },
+  {
+    "service": "https://github.com/OpenClinica/study-runner",
+    "artifact_to_be_translated": "src/main/resources/org/akaza/openclinica/i18n/words.properties",
+    "translation_type": "values",
+    "target": [
+      {
+        "locale": "de",
+        "location": "src/main/resources/org/akaza/openclinica/i18n/",
+        "file_name": "words_de.properties"
+      }
+    ]
+  },
+  {
+    "service": "https://github.com/OpenClinica/study-runner",
+    "artifact_to_be_translated": "src/main/resources/org/akaza/openclinica/i18n/workflow.properties",
+    "translation_type": "values",
+    "target": [
+      {
+        "locale": "de",
+        "location": "src/main/resources/org/akaza/openclinica/i18n/",
+        "file_name": "workflow_de.properties"
+      }
+    ]
   },
   {
     "service": "https://github.com/OpenClinica/study-runner",
     "artifact_to_be_translated": "src/main/webapp/includes/new_cal/lang/calendar-en.js",
-    "tranlation_type": "values",
-    "target_locales": [
-      "de"
-    ],
-    "target_file_name_format": "calendar-${target_locale}.js"
+    "translation_type": "values",
+    "target": [
+      {
+        "locale": "de",
+        "location": "src/main/webapp/includes/new_cal/lang/",
+        "file_name": "calendar-de.js"
+      }
+    ]
   },
   {
     "service": "https://github.com/OpenClinica/study-runner",
     "artifact_to_be_translated": "src/main/resources/core/properties/template_tabular_import_mapping.properties",
-    "tranlation_type": "comments",
-    "target_locales": [
-      "de"
-    ],
-    "target_file_name_format": "template_tabular_import_mapping_${target_locale}.properties"
+    "translation_type": "comments",
+    "target": [
+      {
+        "locale": "de",
+        "location": "src/main/resources/core/properties/",
+        "file_name": "template_tabular_import_mapping_de.properties"
+      }
+    ]
   }
 ]
