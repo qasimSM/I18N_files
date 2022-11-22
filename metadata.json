@@ -130,5 +130,389 @@
         "file_name": "template_tabular_import_mapping_de.properties"
       }
     ]
+  },
+  {
+    "service": "https://github.com/OpenClinica/study-runner",
+    "artifact_to_be_translated": "src/main/resources/core/properties/template_tabular_import_mapping.properties",
+    "translation_type": "comments",
+    "target": [
+      {
+        "locale": "de",
+        "location": "src/main/resources/core/properties/",
+        "file_name": "template_tabular_import_mapping_de.properties"
+      }
+    ]
+  },
+  {
+    "service": "https://github.com/OpenClinica/study-runner-ui",
+    "artifact_to_be_translated": "src/main/webapp/i18n/en/activate.json",
+    "translation_type": "values",
+    "target": [
+      {
+        "locale": "de",
+        "location": "src/main/webapp/i18n/de/",
+        "file_name": "activate.json"
+      }
+    ]
+  },
+  {
+    "service": "https://github.com/OpenClinica/study-runner-ui",
+    "artifact_to_be_translated": "src/main/webapp/i18n/en/apple-health-kit.json",
+    "translation_type": "values",
+    "target": [
+      {
+        "locale": "de",
+        "location": "src/main/webapp/i18n/de/",
+        "file_name": "apple-health-kit.json"
+      }
+    ]
+  },
+  {
+    "service": "https://github.com/OpenClinica/study-runner-ui",
+    "artifact_to_be_translated": "src/main/webapp/i18n/en/audits.json",
+    "translation_type": "values",
+    "target": [
+      {
+        "locale": "de",
+        "location": "src/main/webapp/i18n/de/",
+        "file_name": "audits.json"
+      }
+    ]
+  },
+  {
+    "service": "https://github.com/OpenClinica/study-runner-ui",
+    "artifact_to_be_translated": "src/main/webapp/i18n/en/configuration.json",
+    "translation_type": "values",
+    "target": [
+      {
+        "locale": "de",
+        "location": "src/main/webapp/i18n/de/",
+        "file_name": "configuration.json"
+      }
+    ]
+  },
+  {
+    "service": "https://github.com/OpenClinica/study-runner-ui",
+    "artifact_to_be_translated": "src/main/webapp/i18n/en/contact-info.json",
+    "translation_type": "values",
+    "target": [
+      {
+        "locale": "de",
+        "location": "src/main/webapp/i18n/de/",
+        "file_name": "contact-info.json"
+      }
+    ]
+  },
+  {
+    "service": "https://github.com/OpenClinica/study-runner-ui",
+    "artifact_to_be_translated": "src/main/webapp/i18n/en/data-review-table.json",
+    "translation_type": "values",
+    "target": [
+      {
+        "locale": "de",
+        "location": "src/main/webapp/i18n/de/",
+        "file_name": "data-review-table.json"
+      }
+    ]
+  },
+  {
+    "service": "https://github.com/OpenClinica/study-runner-ui",
+    "artifact_to_be_translated": "src/main/webapp/i18n/en/data-transformation.json",
+    "translation_type": "values",
+    "target": [
+      {
+        "locale": "de",
+        "location": "src/main/webapp/i18n/de/",
+        "file_name": "data-transformation.json"
+      }
+    ]
+  },
+  {
+    "service": "https://github.com/OpenClinica/study-runner-ui",
+    "artifact_to_be_translated": "src/main/webapp/i18n/en/ehr-data.json",
+    "translation_type": "values",
+    "target": [
+      {
+        "locale": "de",
+        "location": "src/main/webapp/i18n/de/",
+        "file_name": "ehr-data.json"
+      }
+    ]
+  },
+  {
+    "service": "https://github.com/OpenClinica/study-runner-ui",
+    "artifact_to_be_translated": "src/main/webapp/i18n/en/embedded-insight-report.json",
+    "translation_type": "values",
+    "target": [
+      {
+        "locale": "de",
+        "location": "src/main/webapp/i18n/de/",
+        "file_name": "embedded-insight-report.json"
+      }
+    ]
+  },
+  {
+    "service": "https://github.com/OpenClinica/study-runner-ui",
+    "artifact_to_be_translated": "src/main/webapp/i18n/en/error.json",
+    "translation_type": "values",
+    "target": [
+      {
+        "locale": "de",
+        "location": "src/main/webapp/i18n/de/",
+        "file_name": "error.json"
+      }
+    ]
+  },
+  {
+    "service": "https://github.com/OpenClinica/study-runner-ui",
+    "artifact_to_be_translated": "src/main/webapp/i18n/en/global.json",
+    "translation_type": "values",
+    "target": [
+      {
+        "locale": "de",
+        "location": "src/main/webapp/i18n/de/",
+        "file_name": "global.json"
+      }
+    ]
+  },
+  {
+    "service": "https://github.com/OpenClinica/study-runner-ui",
+    "artifact_to_be_translated": "src/main/webapp/i18n/en/health.json",
+    "translation_type": "values",
+    "target": [
+      {
+        "locale": "de",
+        "location": "src/main/webapp/i18n/de/",
+        "file_name": "health.json"
+      }
+    ]
+  },
+  {
+    "service": "https://github.com/OpenClinica/study-runner-ui",
+    "artifact_to_be_translated": "src/main/webapp/i18n/en/home.json",
+    "translation_type": "values",
+    "target": [
+      {
+        "locale": "de",
+        "location": "src/main/webapp/i18n/de/",
+        "file_name": "home.json"
+      }
+    ]
+  },
+  {
+    "service": "https://github.com/OpenClinica/study-runner-ui",
+    "artifact_to_be_translated": "src/main/webapp/i18n/en/login.json",
+    "translation_type": "values",
+    "target": [
+      {
+        "locale": "de",
+        "location": "src/main/webapp/i18n/de/",
+        "file_name": "login.json"
+      }
+    ]
+  },
+  {
+    "service": "https://github.com/OpenClinica/study-runner-ui",
+    "artifact_to_be_translated": "src/main/webapp/i18n/en/logs.json",
+    "translation_type": "values",
+    "target": [
+      {
+        "locale": "de",
+        "location": "src/main/webapp/i18n/de/",
+        "file_name": "logs.json"
+      }
+    ]
+  },
+  {
+    "service": "https://github.com/OpenClinica/study-runner-ui",
+    "artifact_to_be_translated": "src/main/webapp/i18n/en/metrics.json",
+    "translation_type": "values",
+    "target": [
+      {
+        "locale": "de",
+        "location": "src/main/webapp/i18n/de/",
+        "file_name": "metrics.json"
+      }
+    ]
+  },
+  {
+    "service": "https://github.com/OpenClinica/study-runner-ui",
+    "artifact_to_be_translated": "src/main/webapp/i18n/en/ocsa.json",
+    "translation_type": "values",
+    "target": [
+      {
+        "locale": "de",
+        "location": "src/main/webapp/i18n/de/",
+        "file_name": "ocsa.json"
+      }
+    ]
+  },
+  {
+    "service": "https://github.com/OpenClinica/study-runner-ui",
+    "artifact_to_be_translated": "src/main/webapp/i18n/en/participant-info.json",
+    "translation_type": "values",
+    "target": [
+      {
+        "locale": "de",
+        "location": "src/main/webapp/i18n/de/",
+        "file_name": "participant-info.json"
+      }
+    ]
+  },
+  {
+    "service": "https://github.com/OpenClinica/study-runner-ui",
+    "artifact_to_be_translated": "src/main/webapp/i18n/en/participantdetails.json",
+    "translation_type": "values",
+    "target": [
+      {
+        "locale": "de",
+        "location": "src/main/webapp/i18n/de/",
+        "file_name": "participantdetails.json"
+      }
+    ]
+  },
+  {
+    "service": "https://github.com/OpenClinica/study-runner-ui",
+    "artifact_to_be_translated": "src/main/webapp/i18n/en/participantdetails-casebook.json",
+    "translation_type": "values",
+    "target": [
+      {
+        "locale": "de",
+        "location": "src/main/webapp/i18n/de/",
+        "file_name": "participantdetails-casebook.json"
+      }
+    ]
+  },
+  {
+    "service": "https://github.com/OpenClinica/study-runner-ui",
+    "artifact_to_be_translated": "src/main/webapp/i18n/en/participantdetails-common-event.json",
+    "translation_type": "values",
+    "target": [
+      {
+        "locale": "de",
+        "location": "src/main/webapp/i18n/de/",
+        "file_name": "participantdetails-common-event.json"
+      }
+    ]
+  },
+  {
+    "service": "https://github.com/OpenClinica/study-runner-ui",
+    "artifact_to_be_translated": "src/main/webapp/i18n/en/participantdetails-visits.json",
+    "translation_type": "values",
+    "target": [
+      {
+        "locale": "de",
+        "location": "src/main/webapp/i18n/de/",
+        "file_name": "participantdetails-visits.json"
+      }
+    ]
+  },
+  {
+    "service": "https://github.com/OpenClinica/study-runner-ui",
+    "artifact_to_be_translated": "src/main/webapp/i18n/en/password.json",
+    "translation_type": "values",
+    "target": [
+      {
+        "locale": "de",
+        "location": "src/main/webapp/i18n/de/",
+        "file_name": "password.json"
+      }
+    ]
+  },
+  {
+    "service": "https://github.com/OpenClinica/study-runner-ui",
+    "artifact_to_be_translated": "src/main/webapp/i18n/en/prime-ng.json",
+    "translation_type": "values",
+    "target": [
+      {
+        "locale": "de",
+        "location": "src/main/webapp/i18n/de/",
+        "file_name": "prime-ng.json"
+      }
+    ]
+  },
+  {
+    "service": "https://github.com/OpenClinica/study-runner-ui",
+    "artifact_to_be_translated": "src/main/webapp/i18n/en/register.json",
+    "translation_type": "values",
+    "target": [
+      {
+        "locale": "de",
+        "location": "src/main/webapp/i18n/de/",
+        "file_name": "register.json"
+      }
+    ]
+  },
+  {
+    "service": "https://github.com/OpenClinica/study-runner-ui",
+    "artifact_to_be_translated": "src/main/webapp/i18n/en/repeating-summary-item.json",
+    "translation_type": "values",
+    "target": [
+      {
+        "locale": "de",
+        "location": "src/main/webapp/i18n/de/",
+        "file_name": "repeating-summary-item.json"
+      }
+    ]
+  },
+  {
+    "service": "https://github.com/OpenClinica/study-runner-ui",
+    "artifact_to_be_translated": "src/main/webapp/i18n/en/reset.json",
+    "translation_type": "values",
+    "target": [
+      {
+        "locale": "de",
+        "location": "src/main/webapp/i18n/de/",
+        "file_name": "reset.json"
+      }
+    ]
+  },
+  {
+    "service": "https://github.com/OpenClinica/study-runner-ui",
+    "artifact_to_be_translated": "src/main/webapp/i18n/en/sessions.json",
+    "translation_type": "values",
+    "target": [
+      {
+        "locale": "de",
+        "location": "src/main/webapp/i18n/de/",
+        "file_name": "sessions.json"
+      }
+    ]
+  },
+  {
+    "service": "https://github.com/OpenClinica/study-runner-ui",
+    "artifact_to_be_translated": "src/main/webapp/i18n/en/settings.json",
+    "translation_type": "values",
+    "target": [
+      {
+        "locale": "de",
+        "location": "src/main/webapp/i18n/de/",
+        "file_name": "settings.json"
+      }
+    ]
+  },
+  {
+    "service": "https://github.com/OpenClinica/study-runner-ui",
+    "artifact_to_be_translated": "src/main/webapp/i18n/en/simple-dialog.json",
+    "translation_type": "values",
+    "target": [
+      {
+        "locale": "de",
+        "location": "src/main/webapp/i18n/de/",
+        "file_name": "simple-dialog.json"
+      }
+    ]
+  },
+  {
+    "service": "https://github.com/OpenClinica/study-runner-ui",
+    "artifact_to_be_translated": "src/main/webapp/i18n/en/user-management.json",
+    "translation_type": "values",
+    "target": [
+      {
+        "locale": "de",
+        "location": "src/main/webapp/i18n/de/",
+        "file_name": "user-management.json"
+      }
+    ]
   }
 ]
