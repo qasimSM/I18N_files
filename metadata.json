@@ -132,18 +132,6 @@
     ]
   },
   {
-    "service": "https://github.com/OpenClinica/study-runner",
-    "artifact_to_be_translated": "src/main/resources/core/properties/template_tabular_import_mapping.properties",
-    "translation_type": "comments",
-    "target": [
-      {
-        "locale": "de",
-        "location": "src/main/resources/core/properties/",
-        "file_name": "template_tabular_import_mapping_de.properties"
-      }
-    ]
-  },
-  {
     "service": "https://github.com/OpenClinica/study-runner-ui",
     "artifact_to_be_translated": "src/main/webapp/i18n/en/activate.json",
     "translation_type": "values",
@@ -512,6 +500,30 @@
         "locale": "de",
         "location": "src/main/webapp/i18n/de/",
         "file_name": "user-management.json"
+      }
+    ]
+  },
+  {
+    "service": "https://github.com/OpenClinica/enketo-express-oc",
+    "artifact_to_be_translated": "locales/src/en/translation.json",
+    "translation_type": "values",
+    "target": [
+      {
+        "locale": "de",
+        "location": "locales/src/de/",
+        "file_name": "translation.json"
+      }
+    ]
+  },
+  {
+    "service": "https://github.com/OpenClinica/enketo-express-oc",
+    "artifact_to_be_translated": "locales/src/en/translation-additions.json",
+    "translation_type": "values",
+    "target": [
+      {
+        "locale": "de",
+        "location": "locales/src/de/",
+        "file_name": "translation-additions.json"
       }
     ]
   }
