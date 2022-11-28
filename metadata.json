@@ -132,6 +132,18 @@
     ]
   },
   {
+    "service": "https://github.com/OpenClinica/study-runner",
+    "artifact_to_be_translated": "src/main/resources/core/properties/rules_template.xml",
+    "translation_type": "comments",
+    "target": [
+      {
+        "locale": "de",
+        "location": "src/main/resources/core/properties/",
+        "file_name": "rules_template_de.properties"
+      }
+    ]
+  },
+  {
     "service": "https://github.com/OpenClinica/study-runner-ui",
     "artifact_to_be_translated": "src/main/webapp/i18n/en/activate.json",
     "translation_type": "values",
